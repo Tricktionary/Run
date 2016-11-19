@@ -1,7 +1,3 @@
-//Andy Bui 100997767 
-//Austin Lee 101011590 
-//Michael Norris 100997078 
-
 import ddf.minim.*;
 AudioPlayer amb;
 AudioPlayer winTheme;
