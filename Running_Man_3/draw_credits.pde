@@ -20,16 +20,11 @@ void draw_credits()
   }
 
   text("Credits",375,450-moving_credits);
-  text("Andy Bui          100997767",300,500-moving_credits);
-  text("Austin Lee       101011590 ",300,550-moving_credits);
-  text("Michael Norris 100997078",300,600-moving_credits);
-  text("COMP1501 Game Dev Project",300,650-moving_credits);
-  text("Created Winter Semester 2016",300,700-moving_credits);
-  text("https://www.youtube.com/watch?v=SNeZWxrkWO0 / Naruto Op 16",100,750-moving_credits);
-  text("https://www.youtube.com/watch?v=JtOHOug-qoQ / Five Night ambience",110,800-moving_credits);
-  text("https://www.youtube.com/watch?v=S8nRAuhm8xI / Mario coin Sound",105,850-moving_credits);
-  text("https://www.youtube.com/watch?v=xn6hhrX34Pw / Wilhem Scream",100,900-moving_credits);
-  text("https://www.youtube.com/watch?v=UBVoONryE3s / Boss Fight",115,950-moving_credits);
+  text("https://www.youtube.com/watch?v=SNeZWxrkWO0 / Naruto Op 16",100,500-moving_credits);
+  text("https://www.youtube.com/watch?v=JtOHOug-qoQ / Five Night ambience",110,550-moving_credits);
+  text("https://www.youtube.com/watch?v=S8nRAuhm8xI / Mario coin Sound",105,600-moving_credits);
+  text("https://www.youtube.com/watch?v=xn6hhrX34Pw / Wilhem Scream",100,650-moving_credits);
+  text("https://www.youtube.com/watch?v=UBVoONryE3s / Boss Fight",115,700-moving_credits);
   text("Thanks For Playing !!",300,1000-moving_credits);
     //GROUND
   fill(255);
