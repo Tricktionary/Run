@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Running_Man_3/draw_credits.pde
 //-------------------------------------------------------------------DRAW CREDITS---------------------------------------------------------
 float gravity = 0.5;
 float jump = -6;
@@ -97,4 +96,3 @@ void draw_credits()
   fill(255,255,255);
   ellipse(625,credits_y,20,20);
 }
->>>>>>> origin/master:draw_credits.pde
