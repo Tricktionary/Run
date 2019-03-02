@@ -1,8 +1,10 @@
 <h1>Running Man Game</h1>
 
-<p>
-    - `git clone https://github.com/Tricktionary/RunningManGame.git`<br>
-    -Install Proccessing 2.2.1 from <a href="https://processing.org/download/" >Here</a> <br>
-    -Open Running_Man_3.pde in processing in order to run from the game folder "RunningManGame/Working Folder/Running_Man_3/Running_Man_3.pde" <br>
-    -Have Fun 🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
-</p>
+# Running Man
+
+### How To Install 
+1. Install (Processing)[https://processing.org/download/]
+2. Run this in the console `git clone https://github.com/Tricktionary/RunningManGame.git`  
+3. Import `Running_Man_3.pde`
+
+### Screenshots 
