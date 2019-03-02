@@ -1,5 +1,3 @@
-<h1>Running Man Game</h1>
-
 # Running Man
 
 ### How To Install 
